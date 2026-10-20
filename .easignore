@@ -1,0 +1,14 @@
+node_modules
+.git
+.expo
+android
+ios
+dist
+build
+*.log
+*.zip
+Versiuni
+.tmp_files_zip
+.tmp_update25
+WorkPayTracker.zip
+yarn.lock
