@@ -899,7 +899,7 @@ const styles = StyleSheet.create({
   sectionTitle: { fontSize: 16, fontWeight: "900", color: "#111827", marginBottom: 8 },
   fieldWrap: { marginTop: 10 },
   labelRow: { flexDirection: "row", alignItems: "center", marginBottom: 6, gap: 8 },
-  label: { fontWeight: "900", color: "#E8E4DC", flexShrink: 1 },
+  label: { fontWeight: "900", color: "#111827", flexShrink: 1 },
   infoBtn: { width: 18, height: 18, borderRadius: 9, borderWidth: 1, borderColor: "#111827", alignItems: "center", justifyContent: "center", backgroundColor: "#FFFFFF" },
   infoBtnText: { fontSize: 11, fontWeight: "900", color: "#111827", lineHeight: 12 },
   helpText: { marginTop: 4, color: "#5A6070", fontWeight: "700", fontSize: 12 },

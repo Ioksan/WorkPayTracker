@@ -23,6 +23,7 @@ export default function RootLayout() {
         <>
           <Stack>
             <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
+            <Stack.Screen name="day/[date]" options={{ title: "Day details" }} />
           </Stack>
           <StatusBar style="light" />
         </>
